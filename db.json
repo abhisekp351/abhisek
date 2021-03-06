@@ -1,37 +1,37 @@
-{
 [
+  {
   "Dessert (100g serving)": "Cupcake",
   "Calories": 305,
   "Fat (g)": 3.7,
   "Carbs (g)": 67,
   "Protein (g)": 4.3,
-  ],
-  [
+  },
+  {
   "Dessert (100g serving)": "Donut",
   "Calories": 305,
   "Fat (g)": 3.7,
   "Carbs (g)": 67,
   "Protein (g)": 4.3,
-  ],
-  [
+  },
+  {
   "Dessert (100g serving)": "Eclair",
   "Calories": 305,
   "Fat (g)": 3.7,
   "Carbs (g)": 67,
   "Protein (g)": 4.3,
-  ],
-  [
+  },
+  }
   "Dessert (100g serving)": "HoneyComb",
   "Calories": 305,
   "Fat (g)": 3.7,
   "Carbs (g)": 67,
   "Protein (g)": 4.3,
-  ],
-  [
+  },
+  {
   "Dessert (100g serving)": "GingerBread",
   "Calories": 305,
   "Fat (g)": 3.7,
   "Carbs (g)": 67,
   "Protein (g)": 4.3,
-  ]
-}
+  }
+]
